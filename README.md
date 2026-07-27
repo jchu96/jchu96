@@ -63,10 +63,6 @@ My current work includes:
 - Developing durable ways for AI coding agents to work with context, evidence,
   independent review, and explicit release authority.
 
-Much of my deepest production work is private because it operates real customer,
-financial, and engineering workflows. My public repositories focus on personal
-tools and reusable patterns that can be shared responsibly.
-
 ## Selected public work
 
 ### [Frame of Mind](https://github.com/jchu96/frame-of-mind)
