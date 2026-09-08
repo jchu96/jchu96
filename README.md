@@ -35,9 +35,13 @@ its acquisition, and now build the AI that companies run on.
 
 ## Things I can help with
 
-- Putting AI inside an operating business: warehouse first, agent on top, source on every answer
-- Running a product with agents instead of headcount
-- NetSuite, SuiteCommerce, and the ERP-to-warehouse spine of a distributor
+- **Your company runs on an ERP and the reports still don't agree.** I build the warehouse that gives sales, operations, and finance one set of numbers, and I've done it inside NetSuite for a distributor and across a group after an acquisition.
+- **You want AI in the business, not a demo.** An agent that answers from the company's own data with the source on every answer, built on top of that warehouse. Days, not quarters.
+- **You just bought a company and need to know what you own.** Technical and data diligence, then the first fixes after close, built by me rather than described in a deck.
+- **A regulated or expert-owned process needs to become software.** I've turned a thousand-page code into a cited knowledge base and had AI write the calculation engine from it, with one expert checking instead of a room of them.
+- **You run a product with a small team and want it to ship like a big one.** How I run a fleet of coding agents is public, with the receipts: [how-i-ship](https://github.com/jchu96/how-i-ship).
+- **Your ops team lives in Teams or Slack and needs answers there.** Managed agents that answer inside the tools people already use, within a written scope, with a human as the break-glass.
+- **NetSuite, specifically.** SuiteScript, SuiteCommerce, RESTlets, SDF, the dealer storefront, the warehouse underneath; a public starter is at [netsuite-vue-spa](https://github.com/jchu96/netsuite-vue-spa).
 
 ## Public
 
